@@ -40,4 +40,5 @@ jobs:
         # npm run build --if-present
         # npm run test --if-present
         echo 'Hello'
-        
+     - name: NodeJS Action Template
+       uses: bitoiu/node-js-action-template@v1.0 
